@@ -74,7 +74,7 @@ A Django application that analyzes user sentiment using Natural Language Process
 
 <p align="center">
 
-<a href="mailto:justinjobofficial@gmail.com">
+<a href="mailto:justinjob095@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
