@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Justin Job
 
-### Python Developer | Django Developer | MCA Student | AI Enthusiast
+### Python Developer | Django Developer | MCA Graduate | AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+%7C+Django+Developer;Building+Real-World+Web+Applications;Always+Learning+New+Technologies" />
 
@@ -83,7 +83,7 @@ A Django application that analyzes user sentiment using Natural Language Process
 </a>
 
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/justin--job">
+<a href="https://linkedin.com/in/justin--job">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
