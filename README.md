@@ -23,7 +23,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,git,github,vscode,c,cpp,sqlite" />
+<img src="https://skillicons.dev/icons?i=python,django,html,css,git,github,vscode,antigravity,c,cpp,sqlite" />
 </p>
 
 ---
@@ -33,17 +33,11 @@
 ### 🚗 Smart Carpool Matcher
 An intelligent ride-sharing web application developed using Django featuring route matching, authentication, and user management.
 
-### 📚 Study Share
-A student marketplace where students and alumni can buy, sell, rent, and bargain for study materials using wallet-based payments.
-
 ### 🤖 AI ChatBot
 A conversational AI chatbot powered by the Google Gemini API with markdown support and conversation history.
 
 ### 😊 Sentiment Analysis Web App
 A Django application that analyzes user sentiment using Natural Language Processing techniques.
-
-### 📊 Student Performance Analysis
-Python-based project that analyzes student academic performance and visualizes results.
 
 ---
 
@@ -88,12 +82,11 @@ Python-based project that analyzes student academic performance and visualizes r
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add your LinkedIn URL below when you create one -->
-<!--
-<a href="https://linkedin.com/in/your-profile">
+
+<a href="https://linkedin.com/in/www.linkedin.com/in/justin--job">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
--->
+
 
 </p>
 
@@ -103,7 +96,7 @@ Python-based project that analyzes student academic performance and visualizes r
 
 - ✅ Build more real-world Django applications
 - ✅ Contribute to open-source projects
-- ✅ Learn Machine Learning and Cloud Computing
+- ✅ Learn Machine Learning
 - ✅ Strengthen Data Structures & Algorithms
 - ✅ Secure a Software Developer role
 
